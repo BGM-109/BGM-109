@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm sunmkim</h1>
 <h3 align="center">Road to Andriod Developer</h3>
 
-- 🔭 I’m currently working on **Website**
-
-- 🌱 I’m currently learning **코드라이언 AI 과정**
-
-- 💬 Ask me about Android
+- 🔭 I’m currently working on **Android**
 
 - 📫 How to reach me **vividxxxxx@gmail.com**
 
