@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm sunmkim</h1>
-<h3 align="center">Road to Data Developer</h3>
+<h3 align="center">Road to Andriod Developer</h3>
 
 - 🔭 I’m currently working on **Website**
 
