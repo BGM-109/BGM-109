@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **코드라이언 AI 과정**
 
-- 💬 Ask me about **Django , tensorflow**
+- 💬 Ask me about Android
 
 - 📫 How to reach me **vividxxxxx@gmail.com**
 
